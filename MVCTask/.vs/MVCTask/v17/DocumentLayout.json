@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\MVCTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|c:\\users\\memme\\source\\repos\\mvctask\\mvctask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|solutionrelative:mvctask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|c:\\users\\memme\\source\\repos\\mvctask\\mvctask\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|solutionrelative:mvctask\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|c:\\users\\memme\\source\\repos\\mvctask\\mvctask\\views\\work\\worksingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|solutionrelative:mvctask\\views\\work\\worksingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|c:\\users\\memme\\source\\repos\\mvctask\\mvctask\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FA912E4-6A1F-4514-ADD5-ED40ADC016FB}|MVCTask\\MVCTask.csproj|solutionrelative:mvctask\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTask\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "MVCTask\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAFwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:23:31.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "worksingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Views\\Work\\worksingle.cshtml",
+              "RelativeDocumentMoniker": "MVCTask\\Views\\Work\\worksingle.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Views\\Work\\worksingle.cshtml",
+              "RelativeToolTip": "MVCTask\\Views\\Work\\worksingle.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAJoBAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:20:49.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "MVCTask\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "MVCTask\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:19:47.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\MVCTask\\MVCTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIUAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:09:26.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
